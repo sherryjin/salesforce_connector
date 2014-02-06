@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = SalesforceConnector::VERSION
   gem.authors       = ["Sherry Jin"]
   gem.email         = ["sherry@newrelic.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Connect to Salesforce}
+  gem.summary       = %q{Sync data to Salesforce objects}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
